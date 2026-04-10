@@ -13,6 +13,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.sln
 
 # build files
 *.ps1
